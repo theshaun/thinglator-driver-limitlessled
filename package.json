@@ -1,0 +1,23 @@
+{
+  "name": "homebox-driver-starter",
+  "license": "MIT",
+  "description": "Starter kit for creating a new Homebox driver",
+  "version": "1.0.0",
+  "maintainers": [
+    {
+      "name": "Richard Willars",
+      "email": "richard@richardwillars.com"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/richardwillars/homebox-driver-starter.git"
+  },
+  "dependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.0.2"
+  },
+  "scripts": {
+    "test": "node_modules/.bin/_mocha --recursive"
+  }
+}
