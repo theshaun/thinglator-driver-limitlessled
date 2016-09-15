@@ -1,5 +1,7 @@
-#homebox-driver-starter
 *This is a starter kit for creating a new driver - copy this repo and use it to build your own driver. Please leave all structure and existing tests as they are to ensure consistency across drivers.*
+
+#homebox-driver-starter
+
 Allows the Homebox platform to control DRIVERNAME devices on your local network.
 
 
