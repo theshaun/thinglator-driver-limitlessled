@@ -10,7 +10,7 @@ Allows the Thinglator platform to control DRIVERNAME devices on your local netwo
 - Thinglator - https://github.com/richardwillars/thinglator
 
 ## Installation
-Navigate to the root of your Devlator installation and run
+Navigate to the root of your Thinglator installation and run
 > npm install thinglator-driver-DRIVERNAME
 
 Relaunch thinglator by re-running
