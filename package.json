@@ -1,7 +1,7 @@
 {
-  "name": "devlator-driver-starter",
+  "name": "thinglator-driver-starter",
   "license": "MIT",
-  "description": "Starter kit for creating a new Devlator driver",
+  "description": "Starter kit for creating a new Thinglator driver",
   "version": "1.0.0",
   "maintainers": [
     {
@@ -11,7 +11,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/richardwillars/devlator-driver-starter.git"
+    "url": "https://github.com/richardwillars/thinglator-driver-starter.git"
   },
   "dependencies": {
     "chai": "^3.5.0",
