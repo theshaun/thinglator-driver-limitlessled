@@ -2,7 +2,7 @@
 
 #thinglator-driver-starter
 
-Allows the Devlator platform to control DRIVERNAME devices on your local network.
+Allows the Thinglator platform to control DRIVERNAME devices on your local network.
 
 
 ## Requirements
