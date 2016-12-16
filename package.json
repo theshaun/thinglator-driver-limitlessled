@@ -1,17 +1,17 @@
 {
-  "name": "thinglator-driver-starter",
+  "name": "thinglator-driver-limitlessled",
   "license": "MIT",
-  "description": "Starter kit for creating a new Thinglator driver",
-  "version": "1.0.0",
+  "description": "Limitless LED driver for the Thinglator platform",
+  "version": "0.0.1",
   "maintainers": [
     {
-      "name": "Richard Willars",
-      "email": "richard@richardwillars.com"
+      "name": "Shaun Walker",
+      "email": "shaun@theshaun.com"
     }
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/richardwillars/thinglator-driver-starter.git"
+    "url": "https://github.com/theshaun/thinglator-driver-limitlessled.git"
   },
   "dependencies": {
     "chai": "^3.5.0",

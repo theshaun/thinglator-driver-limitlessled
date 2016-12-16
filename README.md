@@ -1,9 +1,8 @@
-*This is a starter kit for creating a new driver - copy this repo and use it to build your own driver. Please leave all structure and existing tests as they are to ensure consistency across drivers.*
+#thinglator-driver-limitlessled
 
-#thinglator-driver-starter
+Allows the Thinglator platform to control Limitless LED and equiv devices on your local network.
 
-Allows the Thinglator platform to control DRIVERNAME devices on your local network.
-
+This should in theory include Milight and EasyBulb
 
 ## Requirements
 - node.js
@@ -11,7 +10,9 @@ Allows the Thinglator platform to control DRIVERNAME devices on your local netwo
 
 ## Installation
 Navigate to the root of your Thinglator installation and run
-> npm install thinglator-driver-DRIVERNAME
+> git clone https://github.com/theshaun/thinglator-driver-limitlessled.git
+
+Note: will add to npm when stable
 
 Relaunch thinglator by re-running
 > node app.js
